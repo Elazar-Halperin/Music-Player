@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable-v24_music_icon.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable-v24\\music_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_ic_baseline_skip_previous_24.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\ic_baseline_skip_previous_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\raw_lorna_shore_sun_eater.mp3.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\raw\\lorna_shore_sun_eater.mp3"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_ic_round_play_circle_filled_24.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\ic_round_play_circle_filled_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_card.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_ic_baseline_stop_circle_24.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\ic_baseline_stop_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-merged_res-31:\\drawable_ic_baseline_skip_next_24.xml.flat",
+        "source": "C:\\Users\\elaza\\.gradle\\daemon\\7.3.3\\com.elazarhalperin.musicplayer.app-main-33:\\drawable\\ic_baseline_skip_next_24.xml"
+    },
+    {
+        "merged": "com.elazarhalperin.musicplayer.app-merged_res-31:/layout_activity_player.xml.flat",
+        "source": "com.elazarhalperin.musicplayer.app-main-33:/layout/activity_player.xml"
+    }
+]

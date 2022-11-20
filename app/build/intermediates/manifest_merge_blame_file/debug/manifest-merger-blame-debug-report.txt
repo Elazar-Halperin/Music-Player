@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.elazarhalperin.musicplayer"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:5-77
+11-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:6:22-74
+12
+13    <application
+13-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:8:5-37:19
+14        android:allowBackup="true"
+14-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:9:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\elaza\.gradle\caches\transforms-3\07641fd7587ae5ee4e47c4b3e36a7852\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:dataExtractionRules="@xml/data_extraction_rules"
+16-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:10:9-65
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:fullBackupContent="@xml/backup_rules"
+19-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:11:9-54
+20        android:icon="@mipmap/ic_launcher"
+20-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:12:9-43
+21        android:label="@string/app_name"
+21-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:13:9-41
+22        android:roundIcon="@mipmap/ic_launcher_round"
+22-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:14:9-54
+23        android:supportsRtl="false"
+23-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:15:9-36
+24        android:theme="@style/Theme.MusicPlayer" >
+24-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:16:9-49
+25        <service
+25-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:18:9-22:19
+26            android:name="com.elazarhalperin.musicplayer.services.MusicPlayerService"
+26-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:19:13-56
+27            android:enabled="true"
+27-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:20:13-35
+28            android:exported="true" >
+28-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:21:13-36
+29        </service>
+30
+31        <activity
+31-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:24:9-27:40
+32            android:name="com.elazarhalperin.musicplayer.PlayerActivity"
+32-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:26:13-43
+33            android:exported="false"
+33-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:27:13-37
+34            android:screenOrientation="portrait" />
+34-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:25:13-49
+35        <activity
+35-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:28:9-36:20
+36            android:name="com.elazarhalperin.musicplayer.MainActivity"
+36-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:29:13-41
+37            android:exported="true" >
+37-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:30:13-36
+38            <intent-filter>
+38-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:31:13-35:29
+39                <action android:name="android.intent.action.MAIN" />
+39-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:32:17-69
+39-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:32:25-66
+40
+41                <category android:name="android.intent.category.LAUNCHER" />
+41-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:34:17-77
+41-->C:\Users\elaza\AndroidStudioProjects\MusicPlayer\app\src\main\AndroidManifest.xml:34:27-74
+42            </intent-filter>
+43        </activity>
+44
+45        <provider
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+46            android:name="androidx.startup.InitializationProvider"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+47            android:authorities="com.elazarhalperin.musicplayer.androidx-startup"
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+48            android:exported="false" >
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+49            <meta-data
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+51                android:value="androidx.startup" />
+51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\elaza\.gradle\caches\transforms-3\b2797b64a29b6f148a3e422b0d492720\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+52            <meta-data
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\elaza\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\elaza\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+54                android:value="androidx.startup" />
+54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\elaza\.gradle\caches\transforms-3\eca32f011f2a155b5f1064a0e3a90be9\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+55        </provider>
+56    </application>
+57
+58</manifest>
